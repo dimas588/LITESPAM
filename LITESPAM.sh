@@ -48,7 +48,7 @@ toilet "T-Sel"
 echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mDanz"
+echo "\033[31;1mAuthor:""\033[37;1mMR . Dimas"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
@@ -63,7 +63,7 @@ figlet "Grab"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
+echo "\033[31;1mAuthor:""\033[37;1mMR . Dimas"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
@@ -112,7 +112,7 @@ toilet -f standard -F gay "Surveyon "
 echo "\033[31;1mJenis Spam:""\033[37;1mEmail"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mphp"
-echo "\033[31;1mAuthor:""\033[37;1mChandra Aditya"
+echo "\033[31;1mAuthor:""\033[37;1mMR . Dimas"
 sleep 5
 cd $HOME/LITESPAM/Tul/
 php 6.php
@@ -139,7 +139,7 @@ if
 then
 clear
 toilet -f slant --gay "LiteSpam"
-echo "\033[34;1mContact:""\033[37;1m https://fb.me/IrsyadMaulana81"
+echo "\033[34;1mContact:""\033[37;1m https://fb.me/RomadhonSyahrul"
 
 
 sleep 1
